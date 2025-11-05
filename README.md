@@ -11,7 +11,7 @@ A classic 3x3 sliding puzzle game built using Python and Tkinter. Shuffle the ti
 - Tkinter (comes pre-installed with most Python distributions)
   **How to Run**
  **Clone the repository:
-git clone https://github.com/yourusername/sliding-puzzle-game.git
+git clone https://github.com/rohith643/Python-Puzzle/edit/main/README.md
 cd sliding-puzzle-game**
 **- Run the game:
 python sliding_puzzle.py**
